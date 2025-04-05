@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://shelter-rin-0810.github.io</id>
+    <id>https://shelter-rin-0810.github.io/project</id>
     <title>Hexo</title>
     <subtitle>阿八阿八</subtitle>
-    <icon>https://shelter-rin-0810.github.io/images/favicon.ico</icon>
-    <link href="https://shelter-rin-0810.github.io" />
+    <icon>https://shelter-rin-0810.github.io/project/images/favicon.ico</icon>
+    <link href="https://shelter-rin-0810.github.io/project" />
     <author>
       <name>shelter-rin</name>
     </author>
@@ -15,30 +15,30 @@
     <category term="教程" />
     <category term="RM" />
     <entry>
-        <id>https://shelter-rin-0810.github.io/computer-science/note/theme-shoka-doc/firstday2/</id>
+        <id>https://shelter-rin-0810.github.io/project/computer-science/note/theme-shoka-doc/firstday2/</id>
         <title>firstday2</title>
-        <link rel="alternate" href="https://shelter-rin-0810.github.io/computer-science/note/theme-shoka-doc/firstday2/"/>
+        <link rel="alternate" href="https://shelter-rin-0810.github.io/project/computer-science/note/theme-shoka-doc/firstday2/"/>
         <content type="html"></content>
-        <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/categories/computer-science/" />
-        <category term="二进制杂谈" scheme="https://shelter-rin-0810.github.io/categories/computer-science/note/" />
-        <category term="Theme Shoka Documentation" scheme="https://shelter-rin-0810.github.io/categories/computer-science/note/theme-shoka-doc/" />
-        <category term="Hexo" scheme="https://shelter-rin-0810.github.io/tags/Hexo/" />
-        <category term="教程" scheme="https://shelter-rin-0810.github.io/tags/%E6%95%99%E7%A8%8B/" />
+        <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/" />
+        <category term="二进制杂谈" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/note/" />
+        <category term="Theme Shoka Documentation" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/note/theme-shoka-doc/" />
+        <category term="Hexo" scheme="https://shelter-rin-0810.github.io/project/tags/Hexo/" />
+        <category term="教程" scheme="https://shelter-rin-0810.github.io/project/tags/%E6%95%99%E7%A8%8B/" />
         <updated>2025-04-05T04:56:15.000Z</updated>
     </entry>
     <entry>
-        <id>https://shelter-rin-0810.github.io/firstday/</id>
+        <id>https://shelter-rin-0810.github.io/project/firstday/</id>
         <title>第一天</title>
-        <link rel="alternate" href="https://shelter-rin-0810.github.io/firstday/"/>
+        <link rel="alternate" href="https://shelter-rin-0810.github.io/project/firstday/"/>
         <content type="html">&lt;p&gt;随便写点什么&lt;/p&gt;
 </content>
-        <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/categories/computer-science/" />
+        <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/" />
         <updated>2025-04-05T04:47:49.000Z</updated>
     </entry>
     <entry>
-        <id>https://shelter-rin-0810.github.io/hello-world/</id>
+        <id>https://shelter-rin-0810.github.io/project/hello-world/</id>
         <title>Hello World</title>
-        <link rel="alternate" href="https://shelter-rin-0810.github.io/hello-world/"/>
+        <link rel="alternate" href="https://shelter-rin-0810.github.io/project/hello-world/"/>
         <content type="html">&lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
 &lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
@@ -57,9 +57,9 @@
         <updated>2025-04-02T11:00:11.555Z</updated>
     </entry>
     <entry>
-        <id>https://shelter-rin-0810.github.io/computer-science/note/theme-shoka-doc/special/</id>
+        <id>https://shelter-rin-0810.github.io/project/computer-science/note/theme-shoka-doc/special/</id>
         <title>Step.4 主题特殊功能</title>
-        <link rel="alternate" href="https://shelter-rin-0810.github.io/computer-science/note/theme-shoka-doc/special/"/>
+        <link rel="alternate" href="https://shelter-rin-0810.github.io/project/computer-science/note/theme-shoka-doc/special/"/>
         <content type="html">&lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;/computer-science/note/theme-shoka-doc/&#34;&gt;🚀快速开始&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/dependents/&#34;&gt;💌依赖插件&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/config/&#34;&gt;📌基本配置&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/display/&#34;&gt;🌈界面显示&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/special/&#34;&gt;&lt;strong&gt;🦄特殊功能&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
@@ -637,17 +637,17 @@ c-16-25.333-24-45-24-59z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/spa
 &lt;p&gt;&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;graph LR&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    A[Square Rect] -- Link text --&amp;gt; B((Circle))&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    A --&amp;gt; C(Round Rect)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    B --&amp;gt; D&amp;#123;Rhombus&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    C --&amp;gt; D&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;sequenceDiagram&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    loop Daily query&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        Alice-&amp;gt;&amp;gt;Bob: Hello Bob, how are you?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        alt is sick&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            Bob-&amp;gt;&amp;gt;Alice: Not so good :(&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        else is well&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            Bob-&amp;gt;&amp;gt;Alice: Feeling fresh like a daisy&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        end&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        opt Extra response&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            Bob-&amp;gt;&amp;gt;Alice: Thanks for asking&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        end&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    end&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
 </content>
-        <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/categories/computer-science/" />
-        <category term="二进制杂谈" scheme="https://shelter-rin-0810.github.io/categories/computer-science/note/" />
-        <category term="Theme Shoka Documentation" scheme="https://shelter-rin-0810.github.io/categories/computer-science/note/theme-shoka-doc/" />
-        <category term="Hexo" scheme="https://shelter-rin-0810.github.io/tags/Hexo/" />
-        <category term="教程" scheme="https://shelter-rin-0810.github.io/tags/%E6%95%99%E7%A8%8B/" />
+        <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/" />
+        <category term="二进制杂谈" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/note/" />
+        <category term="Theme Shoka Documentation" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/note/theme-shoka-doc/" />
+        <category term="Hexo" scheme="https://shelter-rin-0810.github.io/project/tags/Hexo/" />
+        <category term="教程" scheme="https://shelter-rin-0810.github.io/project/tags/%E6%95%99%E7%A8%8B/" />
         <updated>2020-08-13T13:45:48.000Z</updated>
     </entry>
     <entry>
-        <id>https://shelter-rin-0810.github.io/computer-science/note/theme-shoka-doc/display/</id>
+        <id>https://shelter-rin-0810.github.io/project/computer-science/note/theme-shoka-doc/display/</id>
         <title>Step.3 界面显示</title>
-        <link rel="alternate" href="https://shelter-rin-0810.github.io/computer-science/note/theme-shoka-doc/display/"/>
+        <link rel="alternate" href="https://shelter-rin-0810.github.io/project/computer-science/note/theme-shoka-doc/display/"/>
         <content type="html">&lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;/computer-science/note/theme-shoka-doc/&#34;&gt;🚀快速开始&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/dependents/&#34;&gt;💌依赖插件&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/config/&#34;&gt;📌基本配置&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/display/&#34;&gt;&lt;strong&gt;🌈界面显示&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/special/&#34;&gt;🦄特殊功能&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
@@ -793,17 +793,17 @@ c-16-25.333-24-45-24-59z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/spa
 类似写成 &lt;code&gt;zh_CN&lt;/code&gt;  这样是不可以的。&lt;/p&gt;
 &lt;/blockquote&gt;
 </content>
-        <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/categories/computer-science/" />
-        <category term="二进制杂谈" scheme="https://shelter-rin-0810.github.io/categories/computer-science/note/" />
-        <category term="Theme Shoka Documentation" scheme="https://shelter-rin-0810.github.io/categories/computer-science/note/theme-shoka-doc/" />
-        <category term="Hexo" scheme="https://shelter-rin-0810.github.io/tags/Hexo/" />
-        <category term="教程" scheme="https://shelter-rin-0810.github.io/tags/%E6%95%99%E7%A8%8B/" />
+        <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/" />
+        <category term="二进制杂谈" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/note/" />
+        <category term="Theme Shoka Documentation" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/note/theme-shoka-doc/" />
+        <category term="Hexo" scheme="https://shelter-rin-0810.github.io/project/tags/Hexo/" />
+        <category term="教程" scheme="https://shelter-rin-0810.github.io/project/tags/%E6%95%99%E7%A8%8B/" />
         <updated>2020-08-13T13:12:48.000Z</updated>
     </entry>
     <entry>
-        <id>https://shelter-rin-0810.github.io/computer-science/note/theme-shoka-doc/config/</id>
+        <id>https://shelter-rin-0810.github.io/project/computer-science/note/theme-shoka-doc/config/</id>
         <title>Step.2 基本配置</title>
-        <link rel="alternate" href="https://shelter-rin-0810.github.io/computer-science/note/theme-shoka-doc/config/"/>
+        <link rel="alternate" href="https://shelter-rin-0810.github.io/project/computer-science/note/theme-shoka-doc/config/"/>
         <content type="html">&lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;/computer-science/note/theme-shoka-doc/&#34;&gt;🚀快速开始&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/dependents/&#34;&gt;💌依赖插件&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/config/&#34;&gt;&lt;strong&gt;📌基本配置&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/display/&#34;&gt;🌈界面显示&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/special/&#34;&gt;🦄特殊功能&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
@@ -980,17 +980,17 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
 如果修改过主题默认 &lt;code&gt;_config.yml&lt;/code&gt; ，记得更新主题时，末尾的 &lt;code&gt;vendors&lt;/code&gt;  也要及时修改。&lt;/p&gt;
 &lt;/div&gt;
 </content>
-        <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/categories/computer-science/" />
-        <category term="二进制杂谈" scheme="https://shelter-rin-0810.github.io/categories/computer-science/note/" />
-        <category term="Theme Shoka Documentation" scheme="https://shelter-rin-0810.github.io/categories/computer-science/note/theme-shoka-doc/" />
-        <category term="Hexo" scheme="https://shelter-rin-0810.github.io/tags/Hexo/" />
-        <category term="教程" scheme="https://shelter-rin-0810.github.io/tags/%E6%95%99%E7%A8%8B/" />
+        <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/" />
+        <category term="二进制杂谈" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/note/" />
+        <category term="Theme Shoka Documentation" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/note/theme-shoka-doc/" />
+        <category term="Hexo" scheme="https://shelter-rin-0810.github.io/project/tags/Hexo/" />
+        <category term="教程" scheme="https://shelter-rin-0810.github.io/project/tags/%E6%95%99%E7%A8%8B/" />
         <updated>2020-08-13T12:56:48.000Z</updated>
     </entry>
     <entry>
-        <id>https://shelter-rin-0810.github.io/computer-science/note/theme-shoka-doc/dependents/</id>
+        <id>https://shelter-rin-0810.github.io/project/computer-science/note/theme-shoka-doc/dependents/</id>
         <title>Step.1 依赖插件</title>
-        <link rel="alternate" href="https://shelter-rin-0810.github.io/computer-science/note/theme-shoka-doc/dependents/"/>
+        <link rel="alternate" href="https://shelter-rin-0810.github.io/project/computer-science/note/theme-shoka-doc/dependents/"/>
         <content type="html">&lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;/computer-science/note/theme-shoka-doc/&#34;&gt;🚀快速开始&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/dependents/&#34;&gt;&lt;strong&gt;💌依赖插件&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/config/&#34;&gt;📌基本配置&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/display/&#34;&gt;🌈界面显示&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/special/&#34;&gt;🦄特殊功能&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
@@ -1089,17 +1089,17 @@ puppeteer 主要是用来渲染 mermaid 流程图，只要文章中不使用 mer
 &lt;h1 id=&#34;feed配置建议&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#feed配置建议&#34;&gt;#&lt;/a&gt; feed 配置建议&lt;/h1&gt;
 &lt;p&gt;&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;keywords:&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;#站点关键词，用“,”分隔&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;feed:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;limit:&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;20&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;order_by:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;-date&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;tag_dir:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;category_dir:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;rss:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;enable:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;template:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;themes/shoka/layout/_alternate/rss.ejs&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;output:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;rss.xml&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;atom:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;enable:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;template:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;themes/shoka/layout/_alternate/atom.ejs&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;output:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;atom.xml&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;jsonFeed:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;enable:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;template:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;themes/shoka/layout/_alternate/json.ejs&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;output:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;feed.json&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
 </content>
-        <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/categories/computer-science/" />
-        <category term="二进制杂谈" scheme="https://shelter-rin-0810.github.io/categories/computer-science/note/" />
-        <category term="Theme Shoka Documentation" scheme="https://shelter-rin-0810.github.io/categories/computer-science/note/theme-shoka-doc/" />
-        <category term="Hexo" scheme="https://shelter-rin-0810.github.io/tags/Hexo/" />
-        <category term="教程" scheme="https://shelter-rin-0810.github.io/tags/%E6%95%99%E7%A8%8B/" />
+        <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/" />
+        <category term="二进制杂谈" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/note/" />
+        <category term="Theme Shoka Documentation" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/note/theme-shoka-doc/" />
+        <category term="Hexo" scheme="https://shelter-rin-0810.github.io/project/tags/Hexo/" />
+        <category term="教程" scheme="https://shelter-rin-0810.github.io/project/tags/%E6%95%99%E7%A8%8B/" />
         <updated>2020-08-13T12:46:48.000Z</updated>
     </entry>
     <entry>
-        <id>https://shelter-rin-0810.github.io/computer-science/note/theme-shoka-doc/</id>
+        <id>https://shelter-rin-0810.github.io/project/computer-science/note/theme-shoka-doc/</id>
         <title>Hexo主题Shoka &amp; multi-markdown-it渲染器使用说明</title>
-        <link rel="alternate" href="https://shelter-rin-0810.github.io/computer-science/note/theme-shoka-doc/"/>
+        <link rel="alternate" href="https://shelter-rin-0810.github.io/project/computer-science/note/theme-shoka-doc/"/>
         <content type="html">&lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;跳票 N 久终于更新的简单的使用说明&lt;/p&gt;
 &lt;ul&gt;
@@ -1216,17 +1216,17 @@ puppeteer 主要是用来渲染 mermaid 流程图，只要文章中不使用 mer
 🔧 新增多枚 icon，包括豆瓣 &lt;code&gt;i-douban&lt;/code&gt;  等&lt;br /&gt;
 🔧 一些显示问题&lt;/p&gt;
 </content>
-        <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/categories/computer-science/" />
-        <category term="二进制杂谈" scheme="https://shelter-rin-0810.github.io/categories/computer-science/note/" />
-        <category term="Theme Shoka Documentation" scheme="https://shelter-rin-0810.github.io/categories/computer-science/note/theme-shoka-doc/" />
-        <category term="Hexo" scheme="https://shelter-rin-0810.github.io/tags/Hexo/" />
-        <category term="教程" scheme="https://shelter-rin-0810.github.io/tags/%E6%95%99%E7%A8%8B/" />
+        <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/" />
+        <category term="二进制杂谈" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/note/" />
+        <category term="Theme Shoka Documentation" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/note/theme-shoka-doc/" />
+        <category term="Hexo" scheme="https://shelter-rin-0810.github.io/project/tags/Hexo/" />
+        <category term="教程" scheme="https://shelter-rin-0810.github.io/project/tags/%E6%95%99%E7%A8%8B/" />
         <updated>2020-08-13T12:45:48.000Z</updated>
     </entry>
     <entry>
-        <id>https://shelter-rin-0810.github.io/computer-science/java/course-1/week-2/</id>
+        <id>https://shelter-rin-0810.github.io/project/computer-science/java/course-1/week-2/</id>
         <title>第2周 判断</title>
-        <link rel="alternate" href="https://shelter-rin-0810.github.io/computer-science/java/course-1/week-2/"/>
+        <link rel="alternate" href="https://shelter-rin-0810.github.io/project/computer-science/java/course-1/week-2/"/>
         <content type="html">&lt;p&gt;:::note info&lt;br /&gt;
  以下为个人学习笔记和习题整理&lt;br /&gt;
 课程：零基础学 Java 语言 - 浙江大学 - 翁恺 @ 中国大学 MOOC&lt;br /&gt;
@@ -1396,15 +1396,15 @@ grape&lt;/p&gt;
 &lt;h3 id=&#34;解题代码-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解题代码-2&#34;&gt;#&lt;/a&gt; 解题代码&lt;/h3&gt;
 &lt;p&gt;&lt;figure class=&#34;highlight java&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;46&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;47&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;48&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;49&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;50&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;51&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;52&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;53&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;54&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;55&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;56&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;57&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;58&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;59&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;60&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;61&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;62&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;63&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; java.util.Scanner;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Main&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;static&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(String[] args)&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;span class=&#34;type&#34;&gt;Scanner&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;new&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Scanner&lt;/span&gt;(System.in);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;rs&lt;/span&gt; &lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt; in.nextInt();		&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;readability&lt;/span&gt; &lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt; rs / &lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;strength&lt;/span&gt; &lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt; rs % &lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;span class=&#34;keyword&#34;&gt;switch&lt;/span&gt;(strength)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			&lt;span class=&#34;keyword&#34;&gt;case&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;				System.out.print(&lt;span class=&#34;string&#34;&gt;&amp;quot;Faint signals, barely perceptible&amp;quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			&lt;span class=&#34;keyword&#34;&gt;break&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			&lt;span class=&#34;keyword&#34;&gt;case&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;				System.out.print(&lt;span class=&#34;string&#34;&gt;&amp;quot;Very weak signals&amp;quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			&lt;span class=&#34;keyword&#34;&gt;break&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			&lt;span class=&#34;keyword&#34;&gt;case&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;				System.out.print(&lt;span class=&#34;string&#34;&gt;&amp;quot;Weak signals&amp;quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			&lt;span class=&#34;keyword&#34;&gt;break&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			&lt;span class=&#34;keyword&#34;&gt;case&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;4&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;				System.out.print(&lt;span class=&#34;string&#34;&gt;&amp;quot;Fair signals&amp;quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			&lt;span class=&#34;keyword&#34;&gt;break&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			&lt;span class=&#34;keyword&#34;&gt;case&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;5&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;				System.out.print(&lt;span class=&#34;string&#34;&gt;&amp;quot;Fairly good signals&amp;quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			&lt;span class=&#34;keyword&#34;&gt;break&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			&lt;span class=&#34;keyword&#34;&gt;case&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;6&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;				System.out.print(&lt;span class=&#34;string&#34;&gt;&amp;quot;Good signals&amp;quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			&lt;span class=&#34;keyword&#34;&gt;break&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			&lt;span class=&#34;keyword&#34;&gt;case&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;7&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;				System.out.print(&lt;span class=&#34;string&#34;&gt;&amp;quot;Moderately strong signals&amp;quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			&lt;span class=&#34;keyword&#34;&gt;break&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			&lt;span class=&#34;keyword&#34;&gt;case&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;8&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;				System.out.print(&lt;span class=&#34;string&#34;&gt;&amp;quot;Strong signals&amp;quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			&lt;span class=&#34;keyword&#34;&gt;break&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			&lt;span class=&#34;keyword&#34;&gt;case&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;9&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;				System.out.print(&lt;span class=&#34;string&#34;&gt;&amp;quot;Extremely strong signals&amp;quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			&lt;span class=&#34;keyword&#34;&gt;break&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;span class=&#34;keyword&#34;&gt;switch&lt;/span&gt;(readability)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			&lt;span class=&#34;keyword&#34;&gt;case&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;				System.out.print(&lt;span class=&#34;string&#34;&gt;&amp;quot;, unreadable.&amp;quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			&lt;span class=&#34;keyword&#34;&gt;break&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			&lt;span class=&#34;keyword&#34;&gt;case&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;				System.out.print(&lt;span class=&#34;string&#34;&gt;&amp;quot;, barely readable, occasional words distinguishable.&amp;quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			&lt;span class=&#34;keyword&#34;&gt;break&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			&lt;span class=&#34;keyword&#34;&gt;case&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;				System.out.print(&lt;span class=&#34;string&#34;&gt;&amp;quot;, readable with considerable difficulty.&amp;quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			&lt;span class=&#34;keyword&#34;&gt;break&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			&lt;span class=&#34;keyword&#34;&gt;case&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;4&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;				System.out.print(&lt;span class=&#34;string&#34;&gt;&amp;quot;, readable with practically no difficulty.&amp;quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			&lt;span class=&#34;keyword&#34;&gt;break&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			&lt;span class=&#34;keyword&#34;&gt;case&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;5&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;				System.out.print(&lt;span class=&#34;string&#34;&gt;&amp;quot;, perfectly readable.&amp;quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			&lt;span class=&#34;keyword&#34;&gt;break&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
 </content>
-        <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/categories/computer-science/" />
-        <category term="Java" scheme="https://shelter-rin-0810.github.io/categories/computer-science/java/" />
-        <category term="零基础学Java语言-浙江大学-翁恺" scheme="https://shelter-rin-0810.github.io/categories/computer-science/java/course-1/" />
+        <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/" />
+        <category term="Java" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/java/" />
+        <category term="零基础学Java语言-浙江大学-翁恺" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/java/course-1/" />
         <updated>2020-04-13T11:12:45.000Z</updated>
     </entry>
     <entry>
-        <id>https://shelter-rin-0810.github.io/computer-science/java/course-1/week-1/</id>
+        <id>https://shelter-rin-0810.github.io/project/computer-science/java/course-1/week-1/</id>
         <title>第1周 计算</title>
-        <link rel="alternate" href="https://shelter-rin-0810.github.io/computer-science/java/course-1/week-1/"/>
+        <link rel="alternate" href="https://shelter-rin-0810.github.io/project/computer-science/java/course-1/week-1/"/>
         <content type="html">&lt;p&gt;:::note info&lt;br /&gt;
  以下为个人学习笔记和习题整理&lt;br /&gt;
 课程：零基础学 Java 语言 - 浙江大学 - 翁恺 @ 中国大学 MOOC&lt;br /&gt;
@@ -1606,15 +1606,15 @@ grape&lt;/p&gt;
 &lt;h3 id=&#34;解题代码&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解题代码&#34;&gt;#&lt;/a&gt; 解题代码&lt;/h3&gt;
 &lt;p&gt;&lt;figure class=&#34;highlight java&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; java.util.Scanner;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Main&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;static&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(String[] args)&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;span class=&#34;type&#34;&gt;Scanner&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;new&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Scanner&lt;/span&gt;(System.in);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;span class=&#34;comment&#34;&gt;// 获得输入的整数&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;fahrenheit&lt;/span&gt; &lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt; in.nextInt();&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;span class=&#34;comment&#34;&gt;// 计算摄氏度&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;span class=&#34;type&#34;&gt;double&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;centigrade&lt;/span&gt; &lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt; (fahrenheit - &lt;span class=&#34;number&#34;&gt;32&lt;/span&gt;) / (&lt;span class=&#34;number&#34;&gt;9&lt;/span&gt; / &lt;span class=&#34;number&#34;&gt;5.0&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;span class=&#34;comment&#34;&gt;// 将浮点数转换为整数输出&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		System.out.println((&lt;span class=&#34;type&#34;&gt;int&lt;/span&gt;)centigrade);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
 </content>
-        <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/categories/computer-science/" />
-        <category term="Java" scheme="https://shelter-rin-0810.github.io/categories/computer-science/java/" />
-        <category term="零基础学Java语言-浙江大学-翁恺" scheme="https://shelter-rin-0810.github.io/categories/computer-science/java/course-1/" />
+        <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/" />
+        <category term="Java" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/java/" />
+        <category term="零基础学Java语言-浙江大学-翁恺" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/java/course-1/" />
         <updated>2020-04-12T12:46:25.000Z</updated>
     </entry>
     <entry>
-        <id>https://shelter-rin-0810.github.io/code-highlight/</id>
+        <id>https://shelter-rin-0810.github.io/project/code-highlight/</id>
         <title>Code Highlight Style test</title>
-        <link rel="alternate" href="https://shelter-rin-0810.github.io/code-highlight/"/>
+        <link rel="alternate" href="https://shelter-rin-0810.github.io/project/code-highlight/"/>
         <content type="html">&lt;p&gt;Make sure all the code blocks highlighted correctly. All the code samples are come from the demo of &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oaWdobGlnaHRqcy5vcmc=&#34;&gt;https://highlightjs.org&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;#x27;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
@@ -1638,9 +1638,9 @@ grape&lt;/p&gt;
         <updated>2019-07-25T08:43:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://shelter-rin-0810.github.io/markdown/</id>
+        <id>https://shelter-rin-0810.github.io/project/markdown/</id>
         <title>Markdown Style test</title>
-        <link rel="alternate" href="https://shelter-rin-0810.github.io/markdown/"/>
+        <link rel="alternate" href="https://shelter-rin-0810.github.io/project/markdown/"/>
         <content type="html">&lt;p&gt;This post is originated from &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXN0LmdpdGh1Yi5jb20vYXBhY2tlZXIvNDE1OTI2OA==&#34;&gt;here&lt;/span&gt; and is used for testing markdown style. This post contains nearly every markdown usage. Make sure all the markdown elements below show up correctly.&lt;/p&gt;
 &lt;p&gt;&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;hr /&gt;
@@ -1862,14 +1862,14 @@ alt=&amp;quot;IMAGE ALT TEXT HERE&amp;quot; width=&amp;quot;240&amp;quot; height
 &lt;p&gt;Pure markdown version:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ARted4RniaU&#34;&gt;&lt;img data-src=&#34;https://img.youtube.com/vi/ARted4RniaU/0.jpg&#34; alt=&#34;IMAGE ALT TEXT HERE&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
-        <category term="Foo" scheme="https://shelter-rin-0810.github.io/tags/Foo/" />
-        <category term="Bar" scheme="https://shelter-rin-0810.github.io/tags/Bar/" />
+        <category term="Foo" scheme="https://shelter-rin-0810.github.io/project/tags/Foo/" />
+        <category term="Bar" scheme="https://shelter-rin-0810.github.io/project/tags/Bar/" />
         <updated>2018-07-24T15:31:06.000Z</updated>
     </entry>
     <entry>
-        <id>https://shelter-rin-0810.github.io/images/</id>
+        <id>https://shelter-rin-0810.github.io/project/images/</id>
         <title>Images</title>
-        <link rel="alternate" href="https://shelter-rin-0810.github.io/images/"/>
+        <link rel="alternate" href="https://shelter-rin-0810.github.io/project/images/"/>
         <content type="html">&lt;p&gt;This is a image test post.&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2572384.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2311325.jpg&#34; alt=&#34;Caption&#34; /&gt;&lt;/p&gt;
@@ -1879,17 +1879,17 @@ alt=&amp;quot;IMAGE ALT TEXT HERE&amp;quot; width=&amp;quot;240&amp;quot; height
         <updated>2013-12-26T14:46:49.000Z</updated>
     </entry>
     <entry>
-        <id>https://shelter-rin-0810.github.io/no-title/</id>
+        <id>https://shelter-rin-0810.github.io/project/no-title/</id>
         <title></title>
-        <link rel="alternate" href="https://shelter-rin-0810.github.io/no-title/"/>
+        <link rel="alternate" href="https://shelter-rin-0810.github.io/project/no-title/"/>
         <content type="html">&lt;p&gt;This post doesn&#39;t have a title. Make sure it&#39;s accessible.&lt;/p&gt;
 </content>
         <updated>2013-12-25T14:57:49.000Z</updated>
     </entry>
     <entry>
-        <id>https://shelter-rin-0810.github.io/excerpts/</id>
+        <id>https://shelter-rin-0810.github.io/project/excerpts/</id>
         <title>Excerpts</title>
-        <link rel="alternate" href="https://shelter-rin-0810.github.io/excerpts/"/>
+        <link rel="alternate" href="https://shelter-rin-0810.github.io/project/excerpts/"/>
         <content type="html">&lt;p&gt;The following contents should be invisible in home/archive page.&lt;/p&gt;
 &lt;p&gt;&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget urna vitae velit eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Aliquam eleifend dolor vitae libero pharetra adipiscing. Etiam adipiscing dolor a quam tempor, eu convallis nulla varius. Aliquam sollicitudin risus a porta aliquam. Ut nec velit dolor. Proin eget leo lobortis, aliquam est sed, mollis mauris. Fusce vitae leo pretium massa accumsan condimentum. Fusce malesuada gravida lectus vel vulputate. Donec bibendum porta nibh ut aliquam.&lt;/p&gt;
@@ -1898,9 +1898,9 @@ alt=&amp;quot;IMAGE ALT TEXT HERE&amp;quot; width=&amp;quot;240&amp;quot; height
         <updated>2013-12-24T16:23:23.000Z</updated>
     </entry>
     <entry>
-        <id>https://shelter-rin-0810.github.io/videos/</id>
+        <id>https://shelter-rin-0810.github.io/project/videos/</id>
         <title>Videos</title>
-        <link rel="alternate" href="https://shelter-rin-0810.github.io/videos/"/>
+        <link rel="alternate" href="https://shelter-rin-0810.github.io/project/videos/"/>
         <content type="html">&lt;p&gt;This is a video test post.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Youtube&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;div class=&#34;video-container&#34;&gt;&lt;iframe src=&#34;https://www.youtube.com/embed/TIbZDRXM-Tg&#34; frameborder=&#34;0&#34; loading=&#34;lazy&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/p&gt;
@@ -1910,9 +1910,9 @@ alt=&amp;quot;IMAGE ALT TEXT HERE&amp;quot; width=&amp;quot;240&amp;quot; height
         <updated>2013-12-24T16:19:15.000Z</updated>
     </entry>
     <entry>
-        <id>https://shelter-rin-0810.github.io/gallery-post/</id>
+        <id>https://shelter-rin-0810.github.io/project/gallery-post/</id>
         <title>Gallery Post</title>
-        <link rel="alternate" href="https://shelter-rin-0810.github.io/gallery-post/"/>
+        <link rel="alternate" href="https://shelter-rin-0810.github.io/project/gallery-post/"/>
         <content type="html">&lt;p&gt;This post contains 4 photos:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Widescreen wallpaper&lt;/li&gt;
@@ -1926,9 +1926,9 @@ alt=&amp;quot;IMAGE ALT TEXT HERE&amp;quot; width=&amp;quot;240&amp;quot; height
         <updated>2013-12-24T16:16:18.000Z</updated>
     </entry>
     <entry>
-        <id>https://shelter-rin-0810.github.io/tag-plugins/</id>
+        <id>https://shelter-rin-0810.github.io/project/tag-plugins/</id>
         <title>Tag Plugins</title>
-        <link rel="alternate" href="https://shelter-rin-0810.github.io/tag-plugins/"/>
+        <link rel="alternate" href="https://shelter-rin-0810.github.io/project/tag-plugins/"/>
         <content type="html">&lt;p&gt;This post is used for testing tag plugins. See &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3plc3BpYS50dy9oZXhvL2RvY3MvdGFnLXBsdWdpbnMuaHRtbA==&#34;&gt;docs&lt;/span&gt; for more info.&lt;/p&gt;
 &lt;h2 id=&#34;block-quote&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#block-quote&#34;&gt;#&lt;/a&gt; Block Quote&lt;/h2&gt;
 &lt;h3 id=&#34;normal-blockquote&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#normal-blockquote&#34;&gt;#&lt;/a&gt; Normal blockquote&lt;/h3&gt;
@@ -1972,17 +1972,17 @@ alt=&amp;quot;IMAGE ALT TEXT HERE&amp;quot; width=&amp;quot;240&amp;quot; height
         <updated>2013-12-24T16:14:39.000Z</updated>
     </entry>
     <entry>
-        <id>https://shelter-rin-0810.github.io/link-post-without-title/</id>
+        <id>https://shelter-rin-0810.github.io/project/link-post-without-title/</id>
         <title></title>
-        <link rel="alternate" href="https://shelter-rin-0810.github.io/link-post-without-title/"/>
+        <link rel="alternate" href="https://shelter-rin-0810.github.io/project/link-post-without-title/"/>
         <content type="html">&lt;p&gt;This is a link post without a title. The title should be the link with or without protocol. Clicking on the link should open &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5nb29nbGUuY29tLw==&#34;&gt;Google&lt;/span&gt; in a new tab or window.&lt;/p&gt;
 </content>
         <updated>2013-12-24T15:44:13.000Z</updated>
     </entry>
     <entry>
-        <id>https://shelter-rin-0810.github.io/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</id>
+        <id>https://shelter-rin-0810.github.io/project/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</id>
         <title>日本語テスト</title>
-        <link rel="alternate" href="https://shelter-rin-0810.github.io/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/"/>
+        <link rel="alternate" href="https://shelter-rin-0810.github.io/project/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/"/>
         <content type="html">&lt;p&gt;This is a Japanese test post.&lt;/p&gt;
 &lt;p&gt;私は昨日ついにその助力家というのの上よりするたなけれ。&lt;/p&gt;
 &lt;p&gt;最も今をお話団はちょうどこの前後なかろでくらいに困りがいるたをは帰着考えたなかって、そうにもするでうたらない。&lt;/p&gt;

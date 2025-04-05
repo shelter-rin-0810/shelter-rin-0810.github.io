@@ -3,8 +3,8 @@
     <channel>
         <title>Hexo</title>
         <subtitle>阿八阿八</subtitle>
-        <icon>https://shelter-rin-0810.github.io/images/favicon.ico</icon>
-        <link>https://shelter-rin-0810.github.io</link>
+        <icon>https://shelter-rin-0810.github.io/project/images/favicon.ico</icon>
+        <link>https://shelter-rin-0810.github.io/project</link>
         <author>
           <name>shelter-rin</name>
         </author>
@@ -18,30 +18,30 @@
         <category term="教程" />
         <category term="RM" />
         <item>
-            <guid isPermalink="true">https://shelter-rin-0810.github.io/computer-science/note/theme-shoka-doc/firstday2/</guid>
+            <guid isPermalink="true">https://shelter-rin-0810.github.io/project/computer-science/note/theme-shoka-doc/firstday2/</guid>
             <title>firstday2</title>
-            <link>https://shelter-rin-0810.github.io/computer-science/note/theme-shoka-doc/firstday2/</link>
-            <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/categories/computer-science/" />
-            <category term="二进制杂谈" scheme="https://shelter-rin-0810.github.io/categories/computer-science/note/" />
-            <category term="Theme Shoka Documentation" scheme="https://shelter-rin-0810.github.io/categories/computer-science/note/theme-shoka-doc/" />
-            <category term="Hexo" scheme="https://shelter-rin-0810.github.io/tags/Hexo/" />
-            <category term="教程" scheme="https://shelter-rin-0810.github.io/tags/%E6%95%99%E7%A8%8B/" />
+            <link>https://shelter-rin-0810.github.io/project/computer-science/note/theme-shoka-doc/firstday2/</link>
+            <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/" />
+            <category term="二进制杂谈" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/note/" />
+            <category term="Theme Shoka Documentation" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/note/theme-shoka-doc/" />
+            <category term="Hexo" scheme="https://shelter-rin-0810.github.io/project/tags/Hexo/" />
+            <category term="教程" scheme="https://shelter-rin-0810.github.io/project/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Sat, 05 Apr 2025 12:56:15 +0800</pubDate>
             <description><![CDATA[  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://shelter-rin-0810.github.io/firstday/</guid>
+            <guid isPermalink="true">https://shelter-rin-0810.github.io/project/firstday/</guid>
             <title>第一天</title>
-            <link>https://shelter-rin-0810.github.io/firstday/</link>
-            <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/categories/computer-science/" />
+            <link>https://shelter-rin-0810.github.io/project/firstday/</link>
+            <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/" />
             <pubDate>Sat, 05 Apr 2025 12:47:49 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;随便写点什么&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://shelter-rin-0810.github.io/hello-world/</guid>
+            <guid isPermalink="true">https://shelter-rin-0810.github.io/project/hello-world/</guid>
             <title>Hello World</title>
-            <link>https://shelter-rin-0810.github.io/hello-world/</link>
+            <link>https://shelter-rin-0810.github.io/project/hello-world/</link>
             <pubDate>Wed, 02 Apr 2025 19:00:11 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
@@ -60,14 +60,14 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://shelter-rin-0810.github.io/computer-science/note/theme-shoka-doc/special/</guid>
+            <guid isPermalink="true">https://shelter-rin-0810.github.io/project/computer-science/note/theme-shoka-doc/special/</guid>
             <title>Step.4 主题特殊功能</title>
-            <link>https://shelter-rin-0810.github.io/computer-science/note/theme-shoka-doc/special/</link>
-            <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/categories/computer-science/" />
-            <category term="二进制杂谈" scheme="https://shelter-rin-0810.github.io/categories/computer-science/note/" />
-            <category term="Theme Shoka Documentation" scheme="https://shelter-rin-0810.github.io/categories/computer-science/note/theme-shoka-doc/" />
-            <category term="Hexo" scheme="https://shelter-rin-0810.github.io/tags/Hexo/" />
-            <category term="教程" scheme="https://shelter-rin-0810.github.io/tags/%E6%95%99%E7%A8%8B/" />
+            <link>https://shelter-rin-0810.github.io/project/computer-science/note/theme-shoka-doc/special/</link>
+            <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/" />
+            <category term="二进制杂谈" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/note/" />
+            <category term="Theme Shoka Documentation" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/note/theme-shoka-doc/" />
+            <category term="Hexo" scheme="https://shelter-rin-0810.github.io/project/tags/Hexo/" />
+            <category term="教程" scheme="https://shelter-rin-0810.github.io/project/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 13 Aug 2020 21:45:48 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;/computer-science/note/theme-shoka-doc/&#34;&gt;🚀快速开始&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/dependents/&#34;&gt;💌依赖插件&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/config/&#34;&gt;📌基本配置&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/display/&#34;&gt;🌈界面显示&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/special/&#34;&gt;&lt;strong&gt;🦄特殊功能&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
@@ -648,14 +648,14 @@ c-16-25.333-24-45-24-59z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/spa
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://shelter-rin-0810.github.io/computer-science/note/theme-shoka-doc/display/</guid>
+            <guid isPermalink="true">https://shelter-rin-0810.github.io/project/computer-science/note/theme-shoka-doc/display/</guid>
             <title>Step.3 界面显示</title>
-            <link>https://shelter-rin-0810.github.io/computer-science/note/theme-shoka-doc/display/</link>
-            <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/categories/computer-science/" />
-            <category term="二进制杂谈" scheme="https://shelter-rin-0810.github.io/categories/computer-science/note/" />
-            <category term="Theme Shoka Documentation" scheme="https://shelter-rin-0810.github.io/categories/computer-science/note/theme-shoka-doc/" />
-            <category term="Hexo" scheme="https://shelter-rin-0810.github.io/tags/Hexo/" />
-            <category term="教程" scheme="https://shelter-rin-0810.github.io/tags/%E6%95%99%E7%A8%8B/" />
+            <link>https://shelter-rin-0810.github.io/project/computer-science/note/theme-shoka-doc/display/</link>
+            <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/" />
+            <category term="二进制杂谈" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/note/" />
+            <category term="Theme Shoka Documentation" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/note/theme-shoka-doc/" />
+            <category term="Hexo" scheme="https://shelter-rin-0810.github.io/project/tags/Hexo/" />
+            <category term="教程" scheme="https://shelter-rin-0810.github.io/project/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 13 Aug 2020 21:12:48 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;/computer-science/note/theme-shoka-doc/&#34;&gt;🚀快速开始&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/dependents/&#34;&gt;💌依赖插件&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/config/&#34;&gt;📌基本配置&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/display/&#34;&gt;&lt;strong&gt;🌈界面显示&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/special/&#34;&gt;🦄特殊功能&lt;/a&gt;&lt;/p&gt;
@@ -804,14 +804,14 @@ c-16-25.333-24-45-24-59z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/spa
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://shelter-rin-0810.github.io/computer-science/note/theme-shoka-doc/config/</guid>
+            <guid isPermalink="true">https://shelter-rin-0810.github.io/project/computer-science/note/theme-shoka-doc/config/</guid>
             <title>Step.2 基本配置</title>
-            <link>https://shelter-rin-0810.github.io/computer-science/note/theme-shoka-doc/config/</link>
-            <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/categories/computer-science/" />
-            <category term="二进制杂谈" scheme="https://shelter-rin-0810.github.io/categories/computer-science/note/" />
-            <category term="Theme Shoka Documentation" scheme="https://shelter-rin-0810.github.io/categories/computer-science/note/theme-shoka-doc/" />
-            <category term="Hexo" scheme="https://shelter-rin-0810.github.io/tags/Hexo/" />
-            <category term="教程" scheme="https://shelter-rin-0810.github.io/tags/%E6%95%99%E7%A8%8B/" />
+            <link>https://shelter-rin-0810.github.io/project/computer-science/note/theme-shoka-doc/config/</link>
+            <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/" />
+            <category term="二进制杂谈" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/note/" />
+            <category term="Theme Shoka Documentation" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/note/theme-shoka-doc/" />
+            <category term="Hexo" scheme="https://shelter-rin-0810.github.io/project/tags/Hexo/" />
+            <category term="教程" scheme="https://shelter-rin-0810.github.io/project/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 13 Aug 2020 20:56:48 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;/computer-science/note/theme-shoka-doc/&#34;&gt;🚀快速开始&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/dependents/&#34;&gt;💌依赖插件&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/config/&#34;&gt;&lt;strong&gt;📌基本配置&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/display/&#34;&gt;🌈界面显示&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/special/&#34;&gt;🦄特殊功能&lt;/a&gt;&lt;/p&gt;
@@ -991,14 +991,14 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://shelter-rin-0810.github.io/computer-science/note/theme-shoka-doc/dependents/</guid>
+            <guid isPermalink="true">https://shelter-rin-0810.github.io/project/computer-science/note/theme-shoka-doc/dependents/</guid>
             <title>Step.1 依赖插件</title>
-            <link>https://shelter-rin-0810.github.io/computer-science/note/theme-shoka-doc/dependents/</link>
-            <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/categories/computer-science/" />
-            <category term="二进制杂谈" scheme="https://shelter-rin-0810.github.io/categories/computer-science/note/" />
-            <category term="Theme Shoka Documentation" scheme="https://shelter-rin-0810.github.io/categories/computer-science/note/theme-shoka-doc/" />
-            <category term="Hexo" scheme="https://shelter-rin-0810.github.io/tags/Hexo/" />
-            <category term="教程" scheme="https://shelter-rin-0810.github.io/tags/%E6%95%99%E7%A8%8B/" />
+            <link>https://shelter-rin-0810.github.io/project/computer-science/note/theme-shoka-doc/dependents/</link>
+            <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/" />
+            <category term="二进制杂谈" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/note/" />
+            <category term="Theme Shoka Documentation" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/note/theme-shoka-doc/" />
+            <category term="Hexo" scheme="https://shelter-rin-0810.github.io/project/tags/Hexo/" />
+            <category term="教程" scheme="https://shelter-rin-0810.github.io/project/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 13 Aug 2020 20:46:48 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;/computer-science/note/theme-shoka-doc/&#34;&gt;🚀快速开始&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/dependents/&#34;&gt;&lt;strong&gt;💌依赖插件&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/config/&#34;&gt;📌基本配置&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/display/&#34;&gt;🌈界面显示&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/special/&#34;&gt;🦄特殊功能&lt;/a&gt;&lt;/p&gt;
@@ -1100,14 +1100,14 @@ puppeteer 主要是用来渲染 mermaid 流程图，只要文章中不使用 mer
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://shelter-rin-0810.github.io/computer-science/note/theme-shoka-doc/</guid>
+            <guid isPermalink="true">https://shelter-rin-0810.github.io/project/computer-science/note/theme-shoka-doc/</guid>
             <title>Hexo主题Shoka &amp; multi-markdown-it渲染器使用说明</title>
-            <link>https://shelter-rin-0810.github.io/computer-science/note/theme-shoka-doc/</link>
-            <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/categories/computer-science/" />
-            <category term="二进制杂谈" scheme="https://shelter-rin-0810.github.io/categories/computer-science/note/" />
-            <category term="Theme Shoka Documentation" scheme="https://shelter-rin-0810.github.io/categories/computer-science/note/theme-shoka-doc/" />
-            <category term="Hexo" scheme="https://shelter-rin-0810.github.io/tags/Hexo/" />
-            <category term="教程" scheme="https://shelter-rin-0810.github.io/tags/%E6%95%99%E7%A8%8B/" />
+            <link>https://shelter-rin-0810.github.io/project/computer-science/note/theme-shoka-doc/</link>
+            <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/" />
+            <category term="二进制杂谈" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/note/" />
+            <category term="Theme Shoka Documentation" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/note/theme-shoka-doc/" />
+            <category term="Hexo" scheme="https://shelter-rin-0810.github.io/project/tags/Hexo/" />
+            <category term="教程" scheme="https://shelter-rin-0810.github.io/project/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 13 Aug 2020 20:45:48 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;跳票 N 久终于更新的简单的使用说明&lt;/p&gt;
@@ -1227,12 +1227,12 @@ puppeteer 主要是用来渲染 mermaid 流程图，只要文章中不使用 mer
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://shelter-rin-0810.github.io/computer-science/java/course-1/week-2/</guid>
+            <guid isPermalink="true">https://shelter-rin-0810.github.io/project/computer-science/java/course-1/week-2/</guid>
             <title>第2周 判断</title>
-            <link>https://shelter-rin-0810.github.io/computer-science/java/course-1/week-2/</link>
-            <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/categories/computer-science/" />
-            <category term="Java" scheme="https://shelter-rin-0810.github.io/categories/computer-science/java/" />
-            <category term="零基础学Java语言-浙江大学-翁恺" scheme="https://shelter-rin-0810.github.io/categories/computer-science/java/course-1/" />
+            <link>https://shelter-rin-0810.github.io/project/computer-science/java/course-1/week-2/</link>
+            <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/" />
+            <category term="Java" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/java/" />
+            <category term="零基础学Java语言-浙江大学-翁恺" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/java/course-1/" />
             <pubDate>Mon, 13 Apr 2020 19:12:45 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;:::note info&lt;br /&gt;
  以下为个人学习笔记和习题整理&lt;br /&gt;
@@ -1405,12 +1405,12 @@ grape&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://shelter-rin-0810.github.io/computer-science/java/course-1/week-1/</guid>
+            <guid isPermalink="true">https://shelter-rin-0810.github.io/project/computer-science/java/course-1/week-1/</guid>
             <title>第1周 计算</title>
-            <link>https://shelter-rin-0810.github.io/computer-science/java/course-1/week-1/</link>
-            <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/categories/computer-science/" />
-            <category term="Java" scheme="https://shelter-rin-0810.github.io/categories/computer-science/java/" />
-            <category term="零基础学Java语言-浙江大学-翁恺" scheme="https://shelter-rin-0810.github.io/categories/computer-science/java/course-1/" />
+            <link>https://shelter-rin-0810.github.io/project/computer-science/java/course-1/week-1/</link>
+            <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/" />
+            <category term="Java" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/java/" />
+            <category term="零基础学Java语言-浙江大学-翁恺" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/java/course-1/" />
             <pubDate>Sun, 12 Apr 2020 20:46:25 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;:::note info&lt;br /&gt;
  以下为个人学习笔记和习题整理&lt;br /&gt;
@@ -1615,9 +1615,9 @@ grape&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://shelter-rin-0810.github.io/code-highlight/</guid>
+            <guid isPermalink="true">https://shelter-rin-0810.github.io/project/code-highlight/</guid>
             <title>Code Highlight Style test</title>
-            <link>https://shelter-rin-0810.github.io/code-highlight/</link>
+            <link>https://shelter-rin-0810.github.io/project/code-highlight/</link>
             <pubDate>Thu, 25 Jul 2019 16:43:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Make sure all the code blocks highlighted correctly. All the code samples are come from the demo of &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oaWdobGlnaHRqcy5vcmc=&#34;&gt;https://highlightjs.org&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;&lt;/p&gt;
@@ -1641,11 +1641,11 @@ grape&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://shelter-rin-0810.github.io/markdown/</guid>
+            <guid isPermalink="true">https://shelter-rin-0810.github.io/project/markdown/</guid>
             <title>Markdown Style test</title>
-            <link>https://shelter-rin-0810.github.io/markdown/</link>
-            <category term="Foo" scheme="https://shelter-rin-0810.github.io/tags/Foo/" />
-            <category term="Bar" scheme="https://shelter-rin-0810.github.io/tags/Bar/" />
+            <link>https://shelter-rin-0810.github.io/project/markdown/</link>
+            <category term="Foo" scheme="https://shelter-rin-0810.github.io/project/tags/Foo/" />
+            <category term="Bar" scheme="https://shelter-rin-0810.github.io/project/tags/Bar/" />
             <pubDate>Tue, 24 Jul 2018 23:31:06 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;This post is originated from &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXN0LmdpdGh1Yi5jb20vYXBhY2tlZXIvNDE1OTI2OA==&#34;&gt;here&lt;/span&gt; and is used for testing markdown style. This post contains nearly every markdown usage. Make sure all the markdown elements below show up correctly.&lt;/p&gt;
 &lt;p&gt;&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;&lt;/p&gt;
@@ -1870,9 +1870,9 @@ alt=&amp;quot;IMAGE ALT TEXT HERE&amp;quot; width=&amp;quot;240&amp;quot; height
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://shelter-rin-0810.github.io/images/</guid>
+            <guid isPermalink="true">https://shelter-rin-0810.github.io/project/images/</guid>
             <title>Images</title>
-            <link>https://shelter-rin-0810.github.io/images/</link>
+            <link>https://shelter-rin-0810.github.io/project/images/</link>
             <pubDate>Thu, 26 Dec 2013 22:46:49 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;This is a image test post.&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2572384.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -1882,17 +1882,17 @@ alt=&amp;quot;IMAGE ALT TEXT HERE&amp;quot; width=&amp;quot;240&amp;quot; height
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://shelter-rin-0810.github.io/no-title/</guid>
+            <guid isPermalink="true">https://shelter-rin-0810.github.io/project/no-title/</guid>
             <title></title>
-            <link>https://shelter-rin-0810.github.io/no-title/</link>
+            <link>https://shelter-rin-0810.github.io/project/no-title/</link>
             <pubDate>Wed, 25 Dec 2013 22:57:49 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;This post doesn&#39;t have a title. Make sure it&#39;s accessible.&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://shelter-rin-0810.github.io/excerpts/</guid>
+            <guid isPermalink="true">https://shelter-rin-0810.github.io/project/excerpts/</guid>
             <title>Excerpts</title>
-            <link>https://shelter-rin-0810.github.io/excerpts/</link>
+            <link>https://shelter-rin-0810.github.io/project/excerpts/</link>
             <pubDate>Wed, 25 Dec 2013 00:23:23 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;The following contents should be invisible in home/archive page.&lt;/p&gt;
 &lt;p&gt;&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;&lt;/p&gt;
@@ -1901,9 +1901,9 @@ alt=&amp;quot;IMAGE ALT TEXT HERE&amp;quot; width=&amp;quot;240&amp;quot; height
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://shelter-rin-0810.github.io/videos/</guid>
+            <guid isPermalink="true">https://shelter-rin-0810.github.io/project/videos/</guid>
             <title>Videos</title>
-            <link>https://shelter-rin-0810.github.io/videos/</link>
+            <link>https://shelter-rin-0810.github.io/project/videos/</link>
             <pubDate>Wed, 25 Dec 2013 00:19:15 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;This is a video test post.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Youtube&lt;/strong&gt;&lt;/p&gt;
@@ -1913,9 +1913,9 @@ alt=&amp;quot;IMAGE ALT TEXT HERE&amp;quot; width=&amp;quot;240&amp;quot; height
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://shelter-rin-0810.github.io/gallery-post/</guid>
+            <guid isPermalink="true">https://shelter-rin-0810.github.io/project/gallery-post/</guid>
             <title>Gallery Post</title>
-            <link>https://shelter-rin-0810.github.io/gallery-post/</link>
+            <link>https://shelter-rin-0810.github.io/project/gallery-post/</link>
             <pubDate>Wed, 25 Dec 2013 00:16:18 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;This post contains 4 photos:&lt;/p&gt;
 &lt;ul&gt;
@@ -1929,9 +1929,9 @@ alt=&amp;quot;IMAGE ALT TEXT HERE&amp;quot; width=&amp;quot;240&amp;quot; height
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://shelter-rin-0810.github.io/tag-plugins/</guid>
+            <guid isPermalink="true">https://shelter-rin-0810.github.io/project/tag-plugins/</guid>
             <title>Tag Plugins</title>
-            <link>https://shelter-rin-0810.github.io/tag-plugins/</link>
+            <link>https://shelter-rin-0810.github.io/project/tag-plugins/</link>
             <pubDate>Wed, 25 Dec 2013 00:14:39 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;This post is used for testing tag plugins. See &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3plc3BpYS50dy9oZXhvL2RvY3MvdGFnLXBsdWdpbnMuaHRtbA==&#34;&gt;docs&lt;/span&gt; for more info.&lt;/p&gt;
 &lt;h2 id=&#34;block-quote&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#block-quote&#34;&gt;#&lt;/a&gt; Block Quote&lt;/h2&gt;
@@ -1975,17 +1975,17 @@ alt=&amp;quot;IMAGE ALT TEXT HERE&amp;quot; width=&amp;quot;240&amp;quot; height
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://shelter-rin-0810.github.io/link-post-without-title/</guid>
+            <guid isPermalink="true">https://shelter-rin-0810.github.io/project/link-post-without-title/</guid>
             <title></title>
-            <link>https://shelter-rin-0810.github.io/link-post-without-title/</link>
+            <link>https://shelter-rin-0810.github.io/project/link-post-without-title/</link>
             <pubDate>Tue, 24 Dec 2013 23:44:13 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;This is a link post without a title. The title should be the link with or without protocol. Clicking on the link should open &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5nb29nbGUuY29tLw==&#34;&gt;Google&lt;/span&gt; in a new tab or window.&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://shelter-rin-0810.github.io/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</guid>
+            <guid isPermalink="true">https://shelter-rin-0810.github.io/project/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</guid>
             <title>日本語テスト</title>
-            <link>https://shelter-rin-0810.github.io/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</link>
+            <link>https://shelter-rin-0810.github.io/project/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</link>
             <pubDate>Tue, 24 Dec 2013 23:33:26 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;This is a Japanese test post.&lt;/p&gt;
 &lt;p&gt;私は昨日ついにその助力家というのの上よりするたなけれ。&lt;/p&gt;
