@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shelter-rin-0810.github.io/project</id>
     <title>Hexo</title>
-    <subtitle>阿八阿八</subtitle>
+    <subtitle>You don&#39;t think other people&#39;s understandings as the nuts and bolts in that you are yourself of great account and proud as a king inside.</subtitle>
     <icon>https://shelter-rin-0810.github.io/project/images/favicon.ico</icon>
     <link href="https://shelter-rin-0810.github.io/project" />
     <author>
@@ -31,8 +31,12 @@
         <title>第一天</title>
         <link rel="alternate" href="https://shelter-rin-0810.github.io/project/firstday/"/>
         <content type="html">&lt;p&gt;随便写点什么&lt;/p&gt;
+&lt;p&gt;前几日在和群友聊天时接触到 GitHub Page 还有 hexo 框架。自己也想要整一个这样记录生活 / 笔记的网站。就开始抽空了解了下并开始搭建这个网站。用的主题是 hexo-theme-shoka。&lt;/p&gt;
+&lt;p&gt;同时感谢 Ruri Shimotsuki @有夢書架 大佬，这里发上相关链接 https://shoka.lostyu.me/computer-science/note/theme-shoka-doc/&lt;/p&gt;
+&lt;p&gt;不过目前还有很多地方没有修改和了解到的，以及没怎么看文章怎么编写。先这样随便写了，后续会反过头来好好排版下。&lt;/p&gt;
+&lt;p&gt;ps:hexo 的部署真的方便&lt;/p&gt;
 </content>
-        <category term="计算机科学" scheme="https://shelter-rin-0810.github.io/project/categories/computer-science/" />
+        <category term="闲聊" scheme="https://shelter-rin-0810.github.io/project/categories/tittle/" />
         <updated>2025-04-05T04:47:49.000Z</updated>
     </entry>
     <entry>
