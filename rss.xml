@@ -10,27 +10,35 @@
         </author>
         <description>欸？我上吗？</description>
         <language>zh-CN</language>
-        <pubDate>Mon, 07 Apr 2025 09:30:43 +0800</pubDate>
-        <lastBuildDate>Mon, 07 Apr 2025 09:30:43 +0800</lastBuildDate>
+        <pubDate>Wed, 23 Apr 2025 08:11:07 +0800</pubDate>
+        <lastBuildDate>Wed, 23 Apr 2025 08:11:07 +0800</lastBuildDate>
         <category term="Hexo" />
         <category term="博客" />
         <category term="技术" />
         <category term="教程" />
         <category term="RM" />
         <item>
-            <guid isPermalink="true">https://shelter-rin-0810.github.io/project/third/</guid>
-            <title>第三天</title>
-            <link>https://shelter-rin-0810.github.io/project/third/</link>
-            <category term="闲聊" scheme="https://shelter-rin-0810.github.io/project/categories/tittle/" />
-            <pubDate>Mon, 07 Apr 2025 09:30:43 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;把评论功能做好了，但是标签还没办法解决（之后再看看&lt;/p&gt;
+            <guid isPermalink="true">https://shelter-rin-0810.github.io/project/note/blog-live/comments-over/</guid>
+            <title>「你好！世界」</title>
+            <link>https://shelter-rin-0810.github.io/project/note/blog-live/comments-over/</link>
+            <category term="二进制杂谈" scheme="https://shelter-rin-0810.github.io/project/categories/note/" />
+            <category term="博客开发实况" scheme="https://shelter-rin-0810.github.io/project/categories/note/blog-live/" />
+            <category term="Hexo" scheme="https://shelter-rin-0810.github.io/project/tags/Hexo/" />
+            <category term="记录" scheme="https://shelter-rin-0810.github.io/project/tags/%E8%AE%B0%E5%BD%95/" />
+            <pubDate>Wed, 23 Apr 2025 08:11:07 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;评论功能能够正常加载了，评论标签也可以了（没清理缓存的原因）&lt;/p&gt;
+&lt;p&gt;不知道为什么我自己的 gravatar 头像加载不过来，但是我朋友的能立马加载上？（gravatar.loli.net 镜像源的问题）&lt;br /&gt;
+解决办法是更换 vendors 中的 js-valine，这个链接指向了 github 上的仓库，先克隆到自己库里面，然后修改 MiniValine.min.js 内的镜像源，最后更改 vendors 中的 js-valine 的值就可以了。&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://shelter-rin-0810.github.io/project/firstday/</guid>
-            <title>第一天</title>
-            <link>https://shelter-rin-0810.github.io/project/firstday/</link>
-            <category term="闲聊" scheme="https://shelter-rin-0810.github.io/project/categories/tittle/" />
+            <guid isPermalink="true">https://shelter-rin-0810.github.io/project/note/blog-live/firstday/</guid>
+            <title>「静夜启程」</title>
+            <link>https://shelter-rin-0810.github.io/project/note/blog-live/firstday/</link>
+            <category term="二进制杂谈" scheme="https://shelter-rin-0810.github.io/project/categories/note/" />
+            <category term="博客开发实况" scheme="https://shelter-rin-0810.github.io/project/categories/note/blog-live/" />
+            <category term="Hexo" scheme="https://shelter-rin-0810.github.io/project/tags/Hexo/" />
+            <category term="记录" scheme="https://shelter-rin-0810.github.io/project/tags/%E8%AE%B0%E5%BD%95/" />
             <pubDate>Sat, 05 Apr 2025 12:47:49 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;随便写点什么&lt;/p&gt;
 &lt;p&gt;前几日在和群友聊天时接触到 GitHub Page 还有 hexo 框架。自己也想要整一个这样记录生活 / 笔记的网站。就开始抽空了解了下并开始搭建这个网站。用的主题是 hexo-theme-shoka。&lt;/p&gt;

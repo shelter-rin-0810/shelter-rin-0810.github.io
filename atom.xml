@@ -8,25 +8,30 @@
     <author>
       <name>Shelter-Rin</name>
     </author>
-    <updated>2025-04-07T01:30:43.000Z</updated>
+    <updated>2025-04-23T00:11:07.000Z</updated>
     <category term="Hexo" />
     <category term="博客" />
     <category term="技术" />
     <category term="教程" />
     <category term="RM" />
     <entry>
-        <id>https://shelter-rin-0810.github.io/project/third/</id>
-        <title>第三天</title>
-        <link rel="alternate" href="https://shelter-rin-0810.github.io/project/third/"/>
-        <content type="html">&lt;p&gt;把评论功能做好了，但是标签还没办法解决（之后再看看&lt;/p&gt;
+        <id>https://shelter-rin-0810.github.io/project/note/blog-live/comments-over/</id>
+        <title>「你好！世界」</title>
+        <link rel="alternate" href="https://shelter-rin-0810.github.io/project/note/blog-live/comments-over/"/>
+        <content type="html">&lt;p&gt;评论功能能够正常加载了，评论标签也可以了（没清理缓存的原因）&lt;/p&gt;
+&lt;p&gt;不知道为什么我自己的 gravatar 头像加载不过来，但是我朋友的能立马加载上？（gravatar.loli.net 镜像源的问题）&lt;br /&gt;
+解决办法是更换 vendors 中的 js-valine，这个链接指向了 github 上的仓库，先克隆到自己库里面，然后修改 MiniValine.min.js 内的镜像源，最后更改 vendors 中的 js-valine 的值就可以了。&lt;/p&gt;
 </content>
-        <category term="闲聊" scheme="https://shelter-rin-0810.github.io/project/categories/tittle/" />
-        <updated>2025-04-07T01:30:43.000Z</updated>
+        <category term="二进制杂谈" scheme="https://shelter-rin-0810.github.io/project/categories/note/" />
+        <category term="博客开发实况" scheme="https://shelter-rin-0810.github.io/project/categories/note/blog-live/" />
+        <category term="Hexo" scheme="https://shelter-rin-0810.github.io/project/tags/Hexo/" />
+        <category term="记录" scheme="https://shelter-rin-0810.github.io/project/tags/%E8%AE%B0%E5%BD%95/" />
+        <updated>2025-04-23T00:11:07.000Z</updated>
     </entry>
     <entry>
-        <id>https://shelter-rin-0810.github.io/project/firstday/</id>
-        <title>第一天</title>
-        <link rel="alternate" href="https://shelter-rin-0810.github.io/project/firstday/"/>
+        <id>https://shelter-rin-0810.github.io/project/note/blog-live/firstday/</id>
+        <title>「静夜启程」</title>
+        <link rel="alternate" href="https://shelter-rin-0810.github.io/project/note/blog-live/firstday/"/>
         <content type="html">&lt;p&gt;随便写点什么&lt;/p&gt;
 &lt;p&gt;前几日在和群友聊天时接触到 GitHub Page 还有 hexo 框架。自己也想要整一个这样记录生活 / 笔记的网站。就开始抽空了解了下并开始搭建这个网站。用的主题是 hexo-theme-shoka。&lt;/p&gt;
 &lt;p&gt;同时感谢 Ruri Shimotsuki @有夢書架 大佬，这里发上相关链接 https://shoka.lostyu.me/computer-science/note/theme-shoka-doc/&lt;/p&gt;
@@ -34,7 +39,10 @@
 &lt;p&gt;评论还没解决（寄&lt;/p&gt;
 &lt;p&gt;ps:hexo 的部署真的方便&lt;/p&gt;
 </content>
-        <category term="闲聊" scheme="https://shelter-rin-0810.github.io/project/categories/tittle/" />
+        <category term="二进制杂谈" scheme="https://shelter-rin-0810.github.io/project/categories/note/" />
+        <category term="博客开发实况" scheme="https://shelter-rin-0810.github.io/project/categories/note/blog-live/" />
+        <category term="Hexo" scheme="https://shelter-rin-0810.github.io/project/tags/Hexo/" />
+        <category term="记录" scheme="https://shelter-rin-0810.github.io/project/tags/%E8%AE%B0%E5%BD%95/" />
         <updated>2025-04-05T04:47:49.000Z</updated>
     </entry>
     <entry>
